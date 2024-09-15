@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-color {
+  @apply bg-gradient-to-br from-[#33D35E] to-[#2AB6D9];
+}
+
+body {
+  font-family: "Public Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  opacity: 0;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  z-index: 1;
+}
+
+input[type="date"] {
+  position: relative;
+  z-index: 10;
+  background: transparent;
+  appearance: none;
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
