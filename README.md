@@ -45,7 +45,7 @@ Esta aplicación permite a los usuarios buscar vuelos disponibles dentro de un r
 
 Para poblar la base de datos H2 con datos de prueba:
 
-1. Abre la consola H2 accediendo a [http://localhost:8080/h2-console](http://localhost:8080/h2-console) en tu navegador.
+1. Abre la consola H2 accediendo a (`http://localhost:8080/h2-console`) en tu navegador.
 2. Inicia sesión con las siguientes credenciales:
    - **User Name**: sa
    - **Password**: password
