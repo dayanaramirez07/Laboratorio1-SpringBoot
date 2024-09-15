@@ -37,6 +37,8 @@ Esta aplicación permite a los usuarios buscar vuelos disponibles dentro de un r
 3. Instalar las dependencias con el siguiente comando:
    ```bash
    npm install
+4. Ejecutar el proyecto:
+   ```bash
    yarn dev
    
 ## Ingreso de Datos de Prueba
