@@ -34,7 +34,7 @@ Esta aplicación permite a los usuarios buscar vuelos disponibles dentro de un r
    ```bash
    git clone https://github.com/tu-usuario/Laboratorio1-SpringBoot.git
 2. Abrir la carpeta vueloudea-back en IntelliJ IDEA y ejecutar VueloudeaApplication.
-3. Instalar las dependencias con el siguiente comando:
+3. Abrir la carpeta `vueloudea-front` en Visual Studio Code. Instalar las dependencias con el siguiente comando:
    ```bash
    npm install
 4. Ejecutar el proyecto:
